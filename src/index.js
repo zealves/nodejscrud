@@ -10,7 +10,7 @@ require('./controllers/authController')(app);
 require('./controllers/projectController')(app);
 /*
 app.get('/', (req, res) => {
-    res.send('OK');
+    res.send('OK');ss
 });
 */
 
